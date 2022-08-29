@@ -1,1 +1,1 @@
-
+![Vasudev's github stats](https://github-readme-stats.vercel.app/api?username=vasudevjogani&show_icons=true&theme=merko&hide_title=true)[![Vasudev's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vasudevjogani&layout=compact&theme=merko)](https://github.com/vasudevjogani).
